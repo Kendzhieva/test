@@ -1,0 +1,44 @@
+.Home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+
+.block{
+    margin-bottom: 100px;
+}
+
+.img{
+    object-fit: cover;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 10px;
+
+}
+
+.text{
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.btnBlock{
+    display: flex;
+    gap: 20px;
+}
+
+.btn{
+    background-color: transparent;
+    padding: 12px 24px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}

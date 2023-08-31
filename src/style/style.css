@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helve', sans-serif;
+    font-weight: 100;
+    transition: 0.3s;
+    color: #fff;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1000px;
+    padding: 0 20px;
+}
+
+.App{
+    background: linear-gradient(to bottom, #1f69bd, #39a4f0);
+    height: 100%;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ul,ol{
+    list-style: none;
+}

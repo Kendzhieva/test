@@ -1,0 +1,17 @@
+.Question{
+    padding: 10px 0;
+}
+
+.title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.text{
+    font-size: 20px;
+    display: inline-block;
+}
+
+.list{
+    margin-bottom: 20px;
+}
